@@ -28,7 +28,7 @@ npm start
 
 ## Demo Screenshot
 
-
+<img width="1006" alt="chrome_AcjwWrS2Fe" src="https://user-images.githubusercontent.com/99584117/177694387-af359fa9-3a16-4323-942e-dc5290f2401c.png">
 
 ## Contributing Guidelines
 
