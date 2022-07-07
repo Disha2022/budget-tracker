@@ -6,7 +6,7 @@
 
 ## Description
 
- This NodeJS project is a sample social network backend with mongoDB. I built this project to get familiar with no-sql DB such as mongoDB and the mongoose library. I can now use this tool as part of my portfolio of javascript projects.
+ This NodeJS project is a budget tracker PWA with mongoDB and indexedDB for offline support. I built this project to get familiar with indexedDB, service workers, mongoDB and the mongoose library. I can now use this tool as part of my portfolio of javascript projects.
 
 ## Table of Contents
 
@@ -26,9 +26,9 @@ npm install
 
 npm start
 
-## Demo Video
+## Demo Screenshot
 
-https://user-images.githubusercontent.com/99584117/177023827-107b5ff1-bbd9-491c-99a7-419b5c0b02fb.mp4
+
 
 ## Contributing Guidelines
 
