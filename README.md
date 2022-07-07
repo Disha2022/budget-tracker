@@ -6,7 +6,7 @@
 
 ## Description
 
- This NodeJS project is a budget tracker PWA with mongoDB and indexedDB for offline support. I built this project to get familiar with indexedDB, service workers, mongoDB and the mongoose library. I can now use this tool as part of my portfolio of javascript projects.
+ This NodeJS project is a budget tracker PWA with mongoDB and indexedDB for offline support. I built this project to get familiar with indexedDB, service workers, mongoDB and the mongoose library. I can now use this tool as part of my portfolio of javascript projects. Deployed at Heroku-[https://disha-budget-tracker.herokuapp.com](https://disha-budget-tracker.herokuapp.com).
 
 ## Table of Contents
 
